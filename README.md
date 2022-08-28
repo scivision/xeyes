@@ -12,6 +12,11 @@ This software is based on WinEyes 1.2.
 
 Special thanks to Robert W. Buccigrossi.
 
+## Sample movie
+
+https://user-images.githubusercontent.com/23236771/187073333-32362911-8dc8-452e-9da1-b285aa184e52.mp4
+
+
 ## Supported OS
 
 Microsoft Windows 10 and 11
