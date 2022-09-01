@@ -14,7 +14,7 @@ Special thanks to Robert W. Buccigrossi.
 
 ## Sample movie
 
-https://user-images.githubusercontent.com/23236771/187073333-32362911-8dc8-452e-9da1-b285aa184e52.mp4
+[![Xeyes for Windows](https://img.youtube.com/vi/S0Xo-uvGuJY/0.jpg)](https://www.youtube.com/watch?v=S0Xo-uvGuJY "Introducation")
 
 
 ## Supported OS
